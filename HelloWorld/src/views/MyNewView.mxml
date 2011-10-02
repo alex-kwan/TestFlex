@@ -8,5 +8,4 @@
 		<s:Label text="Success!" />
 		<s:Button label="Back" click="navigator.popView()" styleName="back" />
 	</s:VGroup>
-	
 </s:View>
