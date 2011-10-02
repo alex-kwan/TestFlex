@@ -5,12 +5,8 @@
 		<!-- Place non-visual elements (e.g., services, value objects) here -->
 	</fx:Declarations>
 	
-	<s:VGroup width="100%" height="100%" verticalAlign="middle" horizontalAlign="center">       
-<<<<<<< HEAD
-		<s:Label text="Home Screen yo"/>
-=======
+	<s:VGroup width="100%" height="100%" verticalAlign="middle" horizontalAlign="center">
 		<s:Label text="Hello, World!!!"/>
->>>>>>> added 2 more !s !!!!!!
 		<s:Button label="Continue" click="navigator.pushView(MyNewView)" styleName="next"/>   
 	</s:VGroup>
 </s:View>
