@@ -6,7 +6,7 @@
 	</fx:Declarations>
 	
 	<s:VGroup width="100%" height="100%" verticalAlign="middle" horizontalAlign="center">       
-		<s:Label text="Hello, World!"/>
+		<s:Label text="Home Screen yo"/>
 		<s:Button label="Continue" click="navigator.pushView(MyNewView)" styleName="next"/>   
 	</s:VGroup>
 </s:View>
