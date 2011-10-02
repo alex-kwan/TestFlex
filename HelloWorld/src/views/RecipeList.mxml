@@ -4,4 +4,7 @@
 	<fx:Declarations>
 		<!-- Place non-visual elements (e.g., services, value objects) here -->
 	</fx:Declarations>
+	<s:actionContent>
+		<s:Button id="btn" label="Exit" click="onExit(event)"/>
+	</s:actionContent>
 </s:ViewMenu>
